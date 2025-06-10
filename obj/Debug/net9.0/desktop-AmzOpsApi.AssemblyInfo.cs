@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desktop-AmzOpsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b956f6d486e24afdc348f68bf9b9e18bff0cbc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("desktop-AmzOpsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desktop-AmzOpsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

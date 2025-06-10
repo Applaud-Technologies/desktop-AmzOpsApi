@@ -56,3 +56,4 @@ C:\Users\amand\OneDrive\Desktop\Repo\desktop-AmzOpsApi\obj\Debug\net9.0\desktop-
 C:\Users\amand\OneDrive\Desktop\Repo\desktop-AmzOpsApi\obj\Debug\net9.0\desktop-AmzOpsApi.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Desktop\Repo\desktop-AmzOpsApi\obj\Debug\net9.0\ref\desktop-AmzOpsApi.dll
 C:\Users\amand\OneDrive\Desktop\Repo\desktop-AmzOpsApi\bin\Debug\net9.0\appsettings.json
+C:\Users\amand\OneDrive\Desktop\Repo\desktop-AmzOpsApi\obj\Debug\net9.0\desktop-AmzOpsApi.sourcelink.json
